@@ -27,7 +27,7 @@ void NhapHonso(Honso & HS) {
     }
 }
 void XuatHonso(Honso &HS) {
-    cout << "Hon so vua nhap la: " <<HS.Phannguyen<<"."<< HS.Tuso << "/" <<HS.Mauso << endl;
+    cout << "Hon so vua nhap la: " <<HS.Phannguyen<< HS.Tuso << "/" <<HS.Mauso << endl;
 }
 int main() {
     Honso HS;
