@@ -30,6 +30,6 @@ int main()
     } while (n <= 0  );
 	    float a[n];
 	    NhapMang(a,n);
-    cout<<"So phan tu co gia tri duong ="<<DemSoDuong(a,n);
+    cout<<"So phan tu co gia tri duong :"<<DemSoDuong(a,n);
 }
 
